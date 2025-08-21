@@ -12,8 +12,8 @@ Vuex State Management: Utilizes Vuex for robust state management, leveraging map
 Database Integration: Connects to the university's student database to fetch real-time information.
 
 🛠️ Technologies Used
-Frontend: Vue.js (with Vuex for state management)
+Secure Access: Authenticated access for parents/guardians to ensure data privacy.
 
-Backend/Database Interaction: (Assumed, as the SQL query is provided) Likely a system that interacts with a SQL Server database.
+Pinia State Management: Utilizes Pinia for robust state management, providing a simple and intuitive way to manage application state.
 
-Database: Microsoft SQL Server (based on the provided query syntax)
+Database Integration: Connects to the university's student database to fetch real-time information.
