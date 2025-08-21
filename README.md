@@ -1,4 +1,5 @@
-#UERM Parent Portal
+**UERM Parent Portal**
+
 This repository contains the code for the UERM Parent Portal, a web application designed to provide parents and guardians with easy access to their student's academic information. This portal aims to enhance communication between the University of the East Ramon Magsaysay Memorial Medical Center (UERM) and the parents, offering transparency and convenience.
 
 ✨ Features
